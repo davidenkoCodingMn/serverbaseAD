@@ -1,0 +1,69 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "dadobratic",
+        "password": "123454321"
+      }
+    ],
+    "cars": [
+      {
+        "id": 1,
+        "name": "Audi Q7 2011",
+        "price": "50.000",
+        "description": "Auto je koristeno 3 mjeseca, nikad udaran. ABS, 3 MODA VOZNJE",
+        "image": "./carImages/audiq72011.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Bmw X7 2020",
+        "price": "180.000",
+        "description": "Auto je koristeno 3 mjeseca, nikad udaran. ABS, 3 MODA VOZNJE",
+        "image": "./carImages/bmwx7.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Mercedes-Benz GLC 2022",
+        "price": "89.995",
+        "description": "Auto je koristeno 3 mjeseca, nikad udaran. ABS, 3 MODA VOZNJE",
+        "image": "./carImages/mercedesglc.jpg"
+      },
+      {
+      "id": 4,
+      "name": "Audi Q8 50 TDI",
+      "price": "142.000",
+      "description": "Auto je koristeno 3 mjeseca, nikad udaran. ABS, 3 MODA VOZNJE",
+      "image": "./carImages/audiq8.jpg"
+      }
+    ],
+    
+    "inspections": [
+      {
+        "car": 1,
+        "fnamelname": "David Obradovic",
+        "phonenumclient": "065123456",
+        "infabpos": "Vozilo je pregledano. Klijent je odlucio da saceka do ponedeljka da pogleda Q5.",
+        "time": "23 : 58 : 36  ",
+        "date": "13.08.2022",
+        "id": 17
+      },
+      {
+        "car": 2,
+        "fnamelname": "Marko Markovic",
+        "phonenumclient": "065300200",
+        "infabpos": "Vozilo je detaljno pregledanox",
+        "time": "12 : 21 : 55  ",
+        "date": "14.08.2022",
+        "id": 20
+      },
+      {
+        "car": 1,
+        "fnamelname": "David Obradovic",
+        "phonenumclient": "065188288",
+        "infabpos": "Vozilo je detaljno pregledano, klijent ce doci u ponedeljak da pogleda Q5.",
+        "time": "12 : 22 : 48  ",
+        "date": "14.08.2022",
+        "id": 21
+      }
+    ]
+  }
